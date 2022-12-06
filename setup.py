@@ -3,8 +3,8 @@ from setuptools import find_packages, setup
 # Declaring variables for setup functions
 PROJECT_NAME = "Face Authenticator"
 VERSION = "0.0.1"
-AUTHOR = "Rahul"
-DESRCIPTION = "Face Authenticator Project using computer vision"
+AUTHOR = "Rishav Dash"
+DESRCIPTION = "This is a Face Authenticator Project"
 
 
 setup(

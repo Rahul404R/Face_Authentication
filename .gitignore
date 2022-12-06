@@ -133,3 +133,6 @@ dmypy.json
 .pyre/
 Untitled.ipynb
 artifacts
+docs
+assignments
+flowchart
